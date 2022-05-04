@@ -1,3 +1,5 @@
 Coming Soon
-WasteDet Dataset
+
+WasteDet Dataset,
+
 WasteDet Source Code 
