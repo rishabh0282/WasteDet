@@ -1,5 +1,4 @@
-Coming Soon
+#Coming Soon
 
-WasteDet Dataset,
-
-WasteDet Source Code 
+-WasteDet Dataset,
+-WasteDet Source Code 
